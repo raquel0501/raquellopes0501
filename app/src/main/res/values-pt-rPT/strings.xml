@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Meu Tinder  "</string>
+    <string name="Welcome"> Bem vindo ao seu Tinder 👋 </string>
+
+    <!-- Login -->
+    <string name="login_button">Autenticar</string>
+    <string name="action_save_credentials">Guardar as suas creddenciais</string>
+    <string name="error_credentials_empty_loginusername">Teu nome de utilizador está vazio</string>
+    <string name="error_credentials_empty_loginpass">Tua password esta vazia</string>
+    <string name="error_credentials_mismatch">Invalido nome de utilizador e/ou password</string>
+    <string name="login_Username">Nome de utilizador</string>
+    <string name="login_pass"> password</string>
+
+    <!-- account -->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Activity main -->
+    <string name="descrição">   Esta aplicação tem como objetivo ajudar-te a encontrar uma pessoa para passear ou levar a tosquia o teu animal de estimação.</string>
+
+</resources>

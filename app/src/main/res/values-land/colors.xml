@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200" tools:ignore="MissingDefaultResource">#FFBB86FC</color>
+    <color name="purple_500" tools:ignore="MissingDefaultResource">#FF6200EE</color>
+    <color name="purple_700" tools:ignore="MissingDefaultResource">#FF3700B3</color>
+    <color name="teal_200" tools:ignore="MissingDefaultResource">#FF03DAC5</color>
+    <color name="teal_700" tools:ignore="MissingDefaultResource">#FF018786</color>
+    <color name="black" tools:ignore="MissingDefaultResource">#FF000000</color>
+    <color name="white" tools:ignore="MissingDefaultResource">#FFFFFFFF</color>
+
+    <!-- Color Palette -->
+    <color name="colorPrimaryLight" tools:ignore="MissingDefaultResource">#757CE8</color>
+    <color name="colorPrimaryMain" tools:ignore="MissingDefaultResource">#3F50B5</color>
+    <color name="colorPrimaryDark" tools:ignore="MissingDefaultResource">#002884</color>
+    <color name="colorPrimaryDark60" tools:ignore="MissingDefaultResource">#99002884</color>
+    <color name="colorPrimaryContrastText" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+    <color name="colorPrimaryDarkContrastText" tools:ignore="MissingDefaultResource">#BDBDBD</color>
+
+    <color name="colorSecondaryLight" tools:ignore="MissingDefaultResource">#FF7961</color>
+    <color name="colorSecondaryMain" tools:ignore="MissingDefaultResource">#F44336</color>
+    <color name="colorSecondaryDark" tools:ignore="MissingDefaultResource">#BA000D</color>
+    <color name="colorSecondaryContrastText" tools:ignore="MissingDefaultResource">#000000</color>
+
+</resources>

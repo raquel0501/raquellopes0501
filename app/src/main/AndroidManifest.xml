@@ -19,9 +19,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
+        <activity android:name=".ListActivity" />
         <activity android:name=".ui.gallery.GalleryFragment" />
         <activity android:name=".ui.home.HomeFragment" />
         <activity android:name=".ui.slideshow.SlideshowFragment" />
+
 
     </application>
 

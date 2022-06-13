@@ -32,6 +32,7 @@
 
 
     <string name="descrição" translatable="false">This application aims to help you find a person to walk with or take your pet to the clipper</string>
+    <string name="open_list">Open list</string>
 
 
 </resources>
